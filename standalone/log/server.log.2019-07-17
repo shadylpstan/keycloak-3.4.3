@@ -1,0 +1,2 @@
+2019-07-17 09:23:03,537 WARN  [org.keycloak.events] (default task-6) type=LOGIN_ERROR, realmId=master, clientId=null, userId=null, ipAddress=127.0.0.1, error=expired_code, restart_after_timeout=true
+2019-07-17 09:28:03,531 WARN  [com.arjuna.ats.arjuna] (Transaction Reaper) ARJUNA012117: TransactionReaper::check timeout for TX 0:ffff0ad3a421:-3baa7c65:5d2d652d:1e86 in state  RUN

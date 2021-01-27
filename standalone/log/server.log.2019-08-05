@@ -1,0 +1,1 @@
+2019-08-05 16:31:24,413 WARN  [org.keycloak.events] (default task-11) type=LOGIN_ERROR, realmId=SmartTicket, clientId=SmartTicket, userId=null, ipAddress=10.133.103.2, error=user_not_found, auth_method=openid-connect, auth_type=code, redirect_uri=http://10.211.164.33:8000/?auth_callback=1, code_id=fadb4539-1055-4012-9209-aa0ff666ea01, username=admin

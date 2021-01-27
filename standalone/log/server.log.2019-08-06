@@ -1,0 +1,1 @@
+2019-08-06 11:00:59,316 WARN  [org.keycloak.events] (default task-18) type=LOGIN_ERROR, realmId=SmartTicket, clientId=null, userId=null, ipAddress=10.135.0.28, error=expired_code, restart_after_timeout=true
